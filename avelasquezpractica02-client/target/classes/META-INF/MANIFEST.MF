@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: avelasquezpractica02-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PCUSER
+Implementation-Vendor-Id: com.mef.cloud
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/avelasquezpr
+ actica02-client/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
